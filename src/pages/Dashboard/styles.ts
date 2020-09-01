@@ -127,3 +127,11 @@ export const Error = styled.span`
 
   margin-top: 8px;
 `;
+
+export const Amount = styled.span`
+  font-size: 14px;
+  display: block;
+
+  color: #3d3d4d;
+  margin: 10px 0 0 15px;
+`;
