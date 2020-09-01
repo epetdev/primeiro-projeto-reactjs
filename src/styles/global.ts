@@ -13,6 +13,7 @@ export default createGlobalStyle`
 
   body {
     background: #F2F2FA url(${GithubBackground}) no-repeat 70% top;
+    background-attachment: fixed;
     -webkit-font-smoothing: antialiased;
   }
 
