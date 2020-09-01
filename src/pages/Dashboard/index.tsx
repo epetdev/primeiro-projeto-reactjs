@@ -70,7 +70,7 @@ const Dashboard: React.FC = () => {
 
       {repositories.length > 0 && (
         <>
-          <Amount>Total de {repositories.length} Repositórios salvos.</Amount>
+          <Amount>Total de {repositories.length} repositórios salvos.</Amount>
         </>
       )}
 

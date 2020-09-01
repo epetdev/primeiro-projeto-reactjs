@@ -133,5 +133,5 @@ export const Amount = styled.span`
   display: block;
 
   color: #3d3d4d;
-  margin: 10px 0 0 15px;
+  margin: 10px 0 0 12px;
 `;
